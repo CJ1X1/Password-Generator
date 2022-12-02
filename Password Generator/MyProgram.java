@@ -30,7 +30,7 @@ class MyProgram {
 
     public static void main(String[] args) {
         // This is the length of the limited charaters.
-        int len = 25;
+        int len = 16;
         // Here it's printing line 5.
         System.out.println(generateRandomPassword(len));
     }
